@@ -12,7 +12,6 @@
 <p align="center">
 </p>
 <h3 align="center">KHASMIR JHON CALUSCUSAO</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=khasmir04&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <a href="https://github.com/khasmir04">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasmir04&theme=tokyonight" />
@@ -20,8 +19,12 @@
 <p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=khasmir04&show_icons=true&theme=tokyonight&line_height=27" alt="Khasmir's github stats"/>
 </p>
+
 <br />
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=khasmir04&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <br />
+
 <details open="open">
 <summary>
 Languages and Tools🛠:
