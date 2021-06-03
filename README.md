@@ -1,4 +1,4 @@
-# KJ - Gamer :video_game: and Developer :computer:
+# Dev KJ - Gamer :video_game: and Developer :computer:
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
@@ -25,7 +25,7 @@
 <p align="center">
 <h3 align="center">Trophies</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=khasmir04&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=khasmir04&theme=onedark&title=Joined2020,Commit,Followers,Repositories,Stars)](https://github.com/ryo-ma/github-profile-trophy)
 
 </p>
 
