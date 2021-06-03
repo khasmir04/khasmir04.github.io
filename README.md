@@ -1,6 +1,7 @@
 # KJ - Gamer :video_game: and Developer :computer:
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -21,8 +22,13 @@
 </p>
 
 <br />
+<p align="center">
+<h3 align="center">Trophies</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=khasmir04&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+</p>
+
 <br />
 
 <details open="open">
