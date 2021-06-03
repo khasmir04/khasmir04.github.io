@@ -1,18 +1,6 @@
 # KJ - Gamer :video_game: and Developer :computer:
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-<!-- [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger) -->
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -20,20 +8,21 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <!-- <a href="https://khasmir04.github.io/">
-    <img src="/assets/img/logo-cropped.svg" alt="Logo" width="80" height="80">
-  </a> -->
+</p>
+<h3 align="center">KHASMIR JHON CALUSCUSAO</h3>
+[![trophy](https://github-profile-trophy.vercel.app/?username=khasmir04&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <h3 align="center">KHASMIR JHON CALUSCUSAO</h3>
-
-  <p align="center">
+<a href="https://github.com/khasmir04">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khasmir04&theme=tokyonight" />
+</a>
+<p align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=khasmir04&show_icons=true&theme=tokyonight&line_height=27" alt="Khasmir's github stats"/>
-    <br />
-
-<details>
+</p>
+<br />
+<br />
+<details open="open">
 <summary>
 Languages and Tools🛠:
 </summary>
@@ -52,7 +41,7 @@ Languages and Tools🛠:
 
 ---
 
-<details>
+<details open="open">
 <summary> Connect with me🤝: </summary>
 
 <br/>
@@ -83,7 +72,7 @@ Languages and Tools🛠:
 
 ---
 
-<details>
+<details open="open">
 <summary>
 My Projects ✨:
 </summary>
@@ -105,10 +94,10 @@ My Projects ✨:
 
 ---
 
-<!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
+<details>
+  <summary>Project Details</summary>
     <br/>
+    ## Table of Contents
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -130,9 +119,7 @@ My Projects ✨:
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
-</details>
-
-<!-- ABOUT THE PROJECT -->
+  <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
@@ -222,6 +209,7 @@ Project Link: [https://github.com/khasmir04/Cusina](https://github.com/khasmir04
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+</details>
 
 [contributors-shield]: https://img.shields.io/github/contributors/khasmir04/khasmir04.github.io.svg?style=for-the-badge
 [contributors-url]: https://github.com/khasmir04/khasmir04.github.io/graphs/contributors
@@ -231,7 +219,7 @@ Project Link: [https://github.com/khasmir04/Cusina](https://github.com/khasmir04
 [stars-url]: https://github.com/khasmir04/khasmir04.github.io/stargazers
 [issues-shield]: https://img.shields.io/github/issues/khasmir04/khasmir04.github.io.svg?style=for-the-badge
 [issues-url]: https://github.com/khasmir04/khasmir04.github.io/issues
-[license-shield]: https://img.shields.io/github/license/khasmir04/khasmir04.github.io.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/khasmir/
