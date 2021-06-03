@@ -223,15 +223,15 @@ Project Link: [https://github.com/khasmir04/Cusina](https://github.com/khasmir04
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/khasmir04/Best-README-Template/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/khasmir04/Best-README-Template/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/khasmir04/Best-README-Template/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/khasmir04/Best-README-Template/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/khasmir04/khasmir04.github.io.svg?style=for-the-badge
+[contributors-url]: https://github.com/khasmir04/khasmir04.github.io/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/khasmir04/khasmir04.github.io.svg?style=for-the-badge
+[forks-url]: https://github.com/khasmir04/khasmir04.github.io/network/members
+[stars-shield]: https://img.shields.io/github/stars/khasmir04/khasmir04.github.io.svg?style=for-the-badge
+[stars-url]: https://github.com/khasmir04/khasmir04.github.io/stargazers
+[issues-shield]: https://img.shields.io/github/issues/khasmir04/khasmir04.github.io.svg?style=for-the-badge
+[issues-url]: https://github.com/khasmir04/khasmir04.github.io/issues
+[license-shield]: https://img.shields.io/github/license/khasmir04/khasmir04.github.io.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/khasmir/
