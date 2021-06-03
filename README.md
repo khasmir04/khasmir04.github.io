@@ -30,16 +30,44 @@
   <h3 align="center">KHASMIR JHON CALUSCUSAO</h3>
 
   <p align="center">
-    Web Developer
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=khasmir04&show_icons=true&theme=tokyonight&line_height=27" alt="Khasmir's github stats"/>
     <br />
-    <a href="https://khasmir04.github.io/"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://khasmir04.github.io/">View Demo</a>
-    ·
-    <a href="https://khasmir04.github.io/">Report Bug</a>
-    ·
-    <a href="https://khasmir04.github.io/">Request Feature</a>
+
+<details>
+<summary>
+Languages and Tools🛠:
+</summary>
+  <br/>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png"></code>
+<code><img height="20" src="https://banner2.cleanpng.com/20181122/krs/kisspng-java-programming-language-selenium-computer-softwa-july-2-16-halab-4-dev-5bf78387a7bb41.028192901542947719687.jpg"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+</details>
+
+---
+
+<details>
+
+### My Projects ✨:
+
+<a href="https://github.com/khasmir04/Cusina">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khasmir04&repo=Background-generator&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/khasmir04/Valorant-Memory-Game">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khasmir04&repo=Valorant-Memory-Game&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/khasmir04/Bootstrap-Chat-Conversation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=khasmir04&repo=Bootstrap-Chat-Conversation&theme=tokyonight" />
+</a>
+
   </p>
 </p>
 
@@ -161,13 +189,13 @@ Project Link: [https://github.com/khasmir04/Cusina](https://github.com/khasmir04
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[contributors-url]: https://github.com/khasmir04/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/othneildrew/Best-README-Template/network/members
+[forks-url]: https://github.com/khasmir04/Best-README-Template/network/members
 [stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/othneildrew/Best-README-Template/stargazers
+[stars-url]: https://github.com/khasmir04/Best-README-Template/stargazers
 [issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/othneildrew/Best-README-Template/issues
+[issues-url]: https://github.com/khasmir04/Best-README-Template/issues
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
