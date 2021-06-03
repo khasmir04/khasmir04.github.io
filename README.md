@@ -23,14 +23,14 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://khasmir04.github.io/">
+  <!-- <a href="https://khasmir04.github.io/">
     <img src="/assets/img/logo-cropped.svg" alt="Logo" width="80" height="80">
-  </a>
+  </a> -->
 
-  <h3 align="center">CUSINA</h3>
+  <h3 align="center">KHASMIR JHON CALUSCUSAO</h3>
 
   <p align="center">
-    The Heart of Your Home
+    Web Developer
     <br />
     <a href="https://khasmir04.github.io/"><strong>Explore the docs »</strong></a>
     <br />
@@ -171,5 +171,5 @@ Project Link: [https://github.com/khasmir04/Cusina](https://github.com/khasmir04
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: https://www.linkedin.com/in/khasmir/
 [product-screenshot]: /assets/img/Screenshot.png
