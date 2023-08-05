@@ -230,3 +230,24 @@ Project Link: [https://github.com/khasmir04/Cusina](https://github.com/khasmir04
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/khasmir/
 [product-screenshot]: /assets/img/Screenshot.png
+
+<!--
+Using tailwindcss cli
+
+#Download Standalone CLI build first then place file in the directory
+
+# Create a tailwind.config.js file
+./tailwindcss init
+
+# Start a watcher
+./tailwindcss -i custom.css -o style.css --watch
+
+# Compile and minify your CSS for production
+./tailwindcss -i custom.css -o style.css --minify
+
+! ALWAYS MINIFY BEFORE UPLOADING TO BRANCH
+ -->
+
+ <!-- Credits
+Background Photo by Milad Fakurian 
+  -->
